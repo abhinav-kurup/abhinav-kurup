@@ -1,19 +1,45 @@
-<h1 align="center">Hi 👋, I'm Abhinav Kurup</h1>
-<h3 align="center">A Passionate Backend Developer</h3>
+<h1 align="center">Hi 👋 I'm Abhinav Kurup</h1>
+<h3 align="center">Backend & DevOps Engineer — building scalable, real-world systems</h3>
 
-- 🔭 I’m currently working on **Ebeat System (GOA Police)**
+I enjoy designing reliable backends, automating deployments, and experimenting with AI in practical, production-like workflows.
 
-- 🌱 I’m currently learning **Machine Learning**
+---
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+## 🚀 Featured Projects
 
-- 📫 How to reach me **abhinavkurup2002@gmail.com**
+### ✍️ CollabWrite — Real-Time Collaborative Writing Platform
+A real-time editor built for seamless teamwork.  
+Uses CRDTs for conflict-free editing, WebSockets for live presence, and an AI assistance layer for grammar, paraphrasing, and summarization.  
+**Stack:** FastAPI, WebSockets, Redis, CRDTs, Docker, Hugging Face
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_.abhinav._kurup?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=1n00uifhailmz&utm_content=2vzbfdz" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🌐 WebNav — Autonomous, Prompt-Driven Web Navigation
+A local-LLM powered agent that interprets natural-language prompts and executes browser actions automatically using Selenium.  
+Designed for **hands-free workflows** like form filling, data extraction, and repetitive navigation — while keeping everything privacy-first and offline-capable.  
+**Stack:** Python, Selenium, Local LLMs (Ollama), Agents, Automation
 
+---
+
+### 📄 PaperPal — AI-Assisted Research Paper Management
+A centralized space to organize, search, and deeply understand research papers.  
+Supports **AI-powered Q&A**, automatic summarization, and metadata management so users can move from reading to insights faster.  
+**Stack:** Python, Vector Search, Document Embeddings, RAG, FastAPI
+
+---
+
+## 🛠️ Tech I Work With
+**Languages:** Python, SQL, C/C++  
+**Backend:** Django, FastAPI, REST APIs, Celery, WebSockets  
+**Infra / DevOps:** Docker, Nginx, AWS, Jenkins, GitHub Actions  
+**Databases:** PostgreSQL, MySQL, Redis  
+**AI / ML:** RAG, LangChain, LLM Agents, TensorFlow, Scikit-learn
+
+---
+
+## 🤝 Let’s Connect
+📫 **abhinavkurup2002@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhinav-kurup/)  
+💻 [GitHub](https://github.com/abhinav-kurup)
+
+> *Exploring AI + Backend + DevOps — and always building something new.*
