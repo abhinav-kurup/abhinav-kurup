@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Abhinav Kurup</h1>
-<h3 align="center">Backend & DevOps Engineer — building scalable, real-world systems</h3>
+<h3 align="center">Backend & AI Engineer — building scalable, real-world systems</h3>
 
 I enjoy designing reliable backends, automating deployments, and experimenting with AI in practical, production-like workflows.
 
