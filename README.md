@@ -5,26 +5,37 @@ I enjoy designing reliable backends, automating deployments, and experimenting w
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### ✍️ CollabWrite — Real-Time Collaborative Writing Platform
-A real-time editor built for seamless teamwork.  
-Uses CRDTs for conflict-free editing, WebSockets for live presence, and an AI assistance layer for grammar, paraphrasing, and summarization.  
-**Stack:** FastAPI, WebSockets, Redis, CRDTs, Docker, Hugging Face
+### 🧠 DocuMind — Agentic Document Intelligence Platform
+
+Built an AI-powered document QA system that combines **RAG, agentic workflows, and retrieval orchestration** to deliver citation-backed answers over private document collections.
+
+Implemented **query decomposition, evidence ranking, grounded generation, and stateful LangGraph pipelines** to improve retrieval quality and answer accuracy. Currently exploring **LlamaIndex, Hybrid Search, and GraphRAG** for advanced retrieval workflows.
+
+**Stack:** FastAPI, LangGraph, LangChain, LlamaIndex, ChromaDB, Python, LLMs
 
 ---
 
-### 🌐 WebNav — Autonomous, Prompt-Driven Web Navigation
-A local-LLM powered agent that interprets natural-language prompts and executes browser actions automatically using Selenium.  
-Designed for **hands-free workflows** like form filling, data extraction, and repetitive navigation — while keeping everything privacy-first and offline-capable.  
-**Stack:** Python, Selenium, Local LLMs (Ollama), Agents, Automation
+### ⚡ CollabWrite — Real-Time Collaborative Editing Engine
+
+Designed a distributed collaborative editor powered by a custom **CRDT architecture**, enabling conflict-free concurrent editing with deterministic state convergence.
+
+Built real-time synchronization using **FastAPI WebSockets**, with **Redis-backed distributed state management** and asynchronous persistence to PostgreSQL for horizontal scalability.
+
+**Stack:** FastAPI, WebSockets, Redis, PostgreSQL, Python, Docker
 
 ---
 
-### 📄 PaperPal — AI-Assisted Research Paper Management
-A centralized space to organize, search, and deeply understand research papers.  
-Supports **AI-powered Q&A**, automatic summarization, and metadata management so users can move from reading to insights faster.  
-**Stack:** Python, Vector Search, Document Embeddings, RAG, FastAPI
+### 📚 PaperPal — AI-Powered Research Companion
+
+Built a research intelligence platform that transforms academic papers into a searchable knowledge base using **semantic search, embeddings, and Retrieval-Augmented Generation (RAG)**.
+
+Implemented **cross-document question answering, AI-powered summarization, and metadata-aware retrieval** to improve knowledge discovery and research workflows.
+
+**Stack:** FastAPI, Python, Vector Databases, Embeddings, RAG, LLMs
+
 
 ---
 
